@@ -677,6 +677,9 @@
    "name" : "_ZN7android8OMXStore17addPlatformPluginEv"
   },
   {
+   "name" : "_ZN7android8OMXStore13addUserPluginEv"
+  },
+  {
    "name" : "_ZN7android8OMXStore19enumerateComponentsEPcjj"
   },
   {
@@ -15520,6 +15523,20 @@
    "access" : "private",
    "function_name" : "android::OMXStore::addVendorPlugin",
    "linker_set_key" : "_ZN7android8OMXStore15addVendorPluginEv",
+   "parameters" :
+   [
+    {
+     "is_this_ptr" : true,
+     "referenced_type" : "_ZTIPN7android8OMXStoreE"
+    }
+   ],
+   "return_type" : "_ZTIv",
+   "source_file" : "frameworks/av/media/libstagefright/omx/include/media/stagefright/omx/OMXStore.h"
+  },
+  {
+   "access" : "private",
+   "function_name" : "android::OMXStore::addUserPlugin",
+   "linker_set_key" : "_ZN7android8OMXStore13addUserPluginEv",
    "parameters" :
    [
     {

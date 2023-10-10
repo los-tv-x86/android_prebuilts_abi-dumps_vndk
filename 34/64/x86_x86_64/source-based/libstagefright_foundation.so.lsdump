@@ -1805,6 +1805,93 @@
   },
   {
    "name" : "_ZTVN7android8MetaDataE"
+  },
+  {
+   "name" : "_ZN7android23MEDIA_MIMETYPE_AUDIO_RAE"
+  },
+  {
+   "name": "_ZN7android23MEDIA_MIMETYPE_VIDEO_RVE"
+  },
+  {
+   "name": "_ZN7android24MEDIA_MIMETYPE_AUDIO_APEE"
+  },
+  {
+   "name": "_ZN7android24MEDIA_MIMETYPE_AUDIO_PCME"
+  },
+  {
+   "name": "_ZN7android24MEDIA_MIMETYPE_VIDEO_VC1E"
+  },
+  {
+   "name": "_ZN7android24MEDIA_MIMETYPE_VIDEO_WMVE"
+  },
+  {
+   "name": "_ZN7android25MEDIA_MIMETYPE_VIDEO_FLV1E"
+  },
+  {
+   "name": "_ZN7android26MEDIA_MIMETYPE_VIDEO_DIVX4E"
+  },
+  {
+   "name": "_ZN7android27MEDIA_MIMETYPE_AUDIO_FFMPEGE"
+  },
+  {
+   "name": "_ZN7android27MEDIA_MIMETYPE_CONTAINER_RAE"
+  },
+  {
+   "name": "_ZN7android27MEDIA_MIMETYPE_CONTAINER_RME"
+  },
+  {
+   "name": "_ZN7android27MEDIA_MIMETYPE_CONTAINER_TSE"
+  },
+  {
+   "name": "_ZN7android27MEDIA_MIMETYPE_VIDEO_FFMPEGE"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_CONTAINER_APEE"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_CONTAINER_ASFE"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_CONTAINER_DTSE"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_CONTAINER_FLVE"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_CONTAINER_MOVE"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_CONTAINER_MP2E"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_CONTAINER_MPGE"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_CONTAINER_VC1E"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_CONTAINER_WMAE"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_CONTAINER_WMVE"
+  },
+  {
+   "name": "_ZN7android28MEDIA_MIMETYPE_VIDEO_DIVX311E"
+  },
+  {
+   "name": "_ZN7android29MEDIA_MIMETYPE_CONTAINER_DIVXE"
+  },
+  {
+   "name": "_ZN7android29MEDIA_MIMETYPE_CONTAINER_FLACE"
+  },
+  {
+   "name": "_ZN7android29MEDIA_MIMETYPE_CONTAINER_HEVCE"
+  },
+  {
+   "name": "_ZN7android29MEDIA_MIMETYPE_CONTAINER_WEBME"
+  },
+  {
+   "name": "_ZN7android31MEDIA_MIMETYPE_CONTAINER_FFMPEGE"
   }
  ],
  "enum_types" :
@@ -14128,6 +14215,180 @@
    "name" : "android::AAtomizer::gAtomizer",
    "referenced_type" : "_ZTIN7android9AAtomizerE",
    "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/AAtomizer.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android23MEDIA_MIMETYPE_AUDIO_RAE",
+   "name" : "android::MEDIA_MIMETYPE_AUDIO_RA",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android23MEDIA_MIMETYPE_VIDEO_RVE",
+   "name" : "android::MEDIA_MIMETYPE_VIDEO_RV",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android24MEDIA_MIMETYPE_AUDIO_APEE",
+   "name" : "android::MEDIA_MIMETYPE_AUDIO_APE",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android24MEDIA_MIMETYPE_AUDIO_PCME",
+   "name" : "android::MEDIA_MIMETYPE_AUDIO_PCM",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android24MEDIA_MIMETYPE_VIDEO_VC1E",
+   "name" : "android::MEDIA_MIMETYPE_VIDEO_VC1",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android24MEDIA_MIMETYPE_VIDEO_WMVE",
+   "name" : "android::MEDIA_MIMETYPE_VIDEO_WMV",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android25MEDIA_MIMETYPE_VIDEO_FLV1E",
+   "name" : "android::MEDIA_MIMETYPE_VIDEO_FLV1",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android26MEDIA_MIMETYPE_VIDEO_DIVX4E",
+   "name" : "android::MEDIA_MIMETYPE_VIDEO_DIVX4",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android27MEDIA_MIMETYPE_AUDIO_FFMPEGE",
+   "name" : "android::MEDIA_MIMETYPE_AUDIO_FFMPEG",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android27MEDIA_MIMETYPE_CONTAINER_RAE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_RA",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android27MEDIA_MIMETYPE_CONTAINER_RME",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_RM",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android27MEDIA_MIMETYPE_CONTAINER_TSE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_TS",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android27MEDIA_MIMETYPE_VIDEO_FFMPEGE",
+   "name" : "android::MEDIA_MIMETYPE_VIDEO_FFMPEG",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_CONTAINER_APEE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_APE",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_CONTAINER_ASFE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_ASF",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_CONTAINER_DTSE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_DTS",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_CONTAINER_FLVE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_FLV",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_CONTAINER_MOVE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_MOV",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_CONTAINER_MP2E",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_MP2",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_CONTAINER_MPGE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_MPG",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_CONTAINER_VC1E",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_VC1",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_CONTAINER_WMAE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_WMA",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_CONTAINER_WMVE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_WMV",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android28MEDIA_MIMETYPE_VIDEO_DIVX311E",
+   "name" : "android::MEDIA_MIMETYPE_VIDEO_DIVX311",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android29MEDIA_MIMETYPE_CONTAINER_DIVXE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_DIVX",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android29MEDIA_MIMETYPE_CONTAINER_FLACE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_FLAC",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android29MEDIA_MIMETYPE_CONTAINER_HEVCE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_HEVC",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android29MEDIA_MIMETYPE_CONTAINER_WEBME",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_WEBM",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
+  },
+  {
+   "linker_set_key" : "_ZN7android31MEDIA_MIMETYPE_CONTAINER_FFMPEGE",
+   "name" : "android::MEDIA_MIMETYPE_CONTAINER_FFMPEG",
+   "referenced_type" : "_ZTIPKc",
+   "source_file" : "frameworks/av/media/module/foundation/include/media/stagefright/foundation/MediaDefs.h"
   }
  ],
  "lvalue_reference_types" :
